@@ -1,0 +1,8 @@
+my:
+  greeting: Hello World From My GitHub Repos
+  list:
+    values: One,Two,Three, Four, Five, Six
+db:
+  connection: connection-string-here-from-config-repo-on-github
+  host: 129.0.0.1
+  port: 2400
